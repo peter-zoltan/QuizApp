@@ -13,5 +13,5 @@ A projekt elkészítésének ütemterve, hetekre lebontva:
 11. Kvízek kitöltése, lebonyolítása
 12. Kvízek kitöltéséhez UI
 13. UI további kidolgozása, finomítása
-14. Buffer
+14. Dokumentáció kiegészítése
 15. Bemutatás

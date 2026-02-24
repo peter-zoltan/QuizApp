@@ -1,4 +1,8 @@
 This is a Kotlin Multiplatform project targeting Android, Web, Desktop (JVM), Server.
+The application provides a user interface for creating, hosting and participating in quizzes, as well as the server-side implementation.
+The project utilises a single state MVVM architecture. The project structure, build and run configurations can be seen below.
+
+### Project structure
 
 * [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
