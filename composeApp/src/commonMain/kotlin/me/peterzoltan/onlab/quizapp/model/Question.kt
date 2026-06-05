@@ -24,6 +24,4 @@ class Question(
 
     fun correctAnswer() = answers[correctIndex]
 
-    fun setImage(image: DrawableResource) { this.image = image }
-
 }
